@@ -1,4 +1,5 @@
 name: Docker Image Build
+
 description: Builds Cobalt build docker images.
 inputs:
   docker_service:
